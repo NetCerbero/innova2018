@@ -21,12 +21,12 @@ class Route extends Model
 
     public function route()
     {
-        return $this->hasMany('App\Vertex');
+        return $this->manyToMany('App\Vertex','aristas', 'id_route_origen', 'id_route_destino');
     }
 
     public function routes()
     {
-        return $this->belongsToMany('App\Vertex');
+        return $this->manyToMany('App\Vertex','aristas', 'id_route_origen', 'id_route_destino');
     }
 
 

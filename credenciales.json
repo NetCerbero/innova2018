@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "innovahack-224213",
+  "private_key_id": "39ed7d12e29fd8b25ebf9dbf48e59d1b70786211",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC5nZoGwrO85z8c\n1VOw+5ckEJu/JDHeDLIfWfXf6T+Hm0bDiolMSXQ7rx/AMTwSiPr3RUe07Sc/tmJf\nTTNv7bw2m6u0tMZsLqC6G/v179nb6vGb3GPlVJXDk2Tvj52ryL68TSeVfn3t6LE5\n+V1KZOjFQ/cAiGzV5jzspv2wxRisnv/XNVxJ2aDyi4oaqNAAudau9c2c9jDDY156\nSMR+x9B7a8dQHOa5fJ36zamS6QpV4EOlaJM5hPoXgh26/BA/YPTDs560zC4rFkHz\nGGy9Y29ZrxRqonbv3ixAFh+LtOZuySl+ZPKdgGmm0MWiER6JWdyJCk/wzQ/czopF\nutVXQvQXAgMBAAECggEAILZT1OkvgBVJHC3EiCZu5p4+tJsOZtHZ+oiCOqoC1kVZ\nXVDnDZjMcVBVyitjKOkXQcjl8E7zYdkk0SLr88f0KbOZuUk6xwoYrXQNHbTdslJf\nrlZTDLGxizxIx6eJ5CKG6uy2EzStwOYHhe4asOfD1jA6Mc/ZToE7L4Hmp+a0iIdY\nJAvCIJZjMIiw5Lq/UjuxWQevzvxczybiyMUL57wbDCZdVuKdERXlSOxcAH/LBGrA\nYjRxl8cIpnXV3dw4qN4mewhhYJR+HhOLxlDYg25FmIs/1p03ntQP90PiLt+KTSxq\nO7fTzkWN5r04y1q5aMT4xXZGLNgMhWFMfY0x87Sx4QKBgQDlZ+PvD/8HwZXIOdxy\nmrAFOGSMs383ZKk1UVAp7UKpM4j38PY2BNst0oyZlPYf7pcXbRCfO0KDNWKuEec2\nZCnzBaVFBgIAyWt9q/uXkIy2C9TefYHFWKx6pls0Hbrp41iVpRvaz79Gy7+aljAl\nzoxzgOkhcsj+s8lrQn83QYYbTwKBgQDPIiS9O3A2t1Lnv3iJngDff9qCxRx1dSoX\nymvMxqBD9LzgMGKUbiul0k7fY2wqivnOWrl7PHB36gCqIx4D/TJ/6718MZuHFz8B\nln37x5LsCvDxZYvU63h4NZgiNBbGOdBuE9fBGBBkgB+V3dTlrfBDV61QSl4dAjxy\nVRI5qOVIuQKBgExsnOHCmXqzAjwvEoLXh7ZlgBHjpokErt5FVYhyM1f9BC9dhhie\n64nLb+2mU4x1xr4WJoh1jIX7ngFRk45qNhNxGQryom4yq+21At8OV+I59NOeSkI9\ndVBy5UVqdh9/Dr7jv3DY7ucd75oHWMjvk5jTJFdxTwaTTJHAGHOHD68/AoGAb+ZF\nLMnIlHazXimNZ+MpG5UJqi3scvQJ+nJLjIQdnri/tOnOx9tAz0NvgrVGgTE1RSq0\nG4SKSe3rz/5Kv+LwfjUP1+FA4VlIm4X+p5+omsZKZk7ynONc4KwrdQbo6sve8yjb\nHSDv8itZZPBDjJVMQEVEhyS19Tv5Bdc5klbRD1kCgYAcEqtK7eG7dRpbc3hPqsdA\nX1U/lBeqgx9IucMjbh260KAQRHp7z+fJEkML5nSjUTbhJcVUNqbNIWelAr2eGUEN\ncpyYCulFVJsVL2nlQYueF6rMfJZD6o2vyV4/dTqQx7G8I3O0twlLtIuX2MMofS6b\nkak+OSlz46RmVk4yuVpoOw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-jw5fw@innovahack-224213.iam.gserviceaccount.com",
+  "client_id": "103867233160768652267",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-jw5fw%40innovahack-224213.iam.gserviceaccount.com"
+}

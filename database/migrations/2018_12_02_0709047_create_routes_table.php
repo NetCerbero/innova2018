@@ -19,11 +19,6 @@ class CreateRoutesTable extends Migration
             $table->string('alias');
             $table->double('latitud');
             $table->double('longitud');
-            $table->double('peso');
-            $table->double('distancia');
-            $table->double('hora');
-            $table->double('trafico');
-            $table->integer('route_id')->unsigned()->nullable();
             $table->timestamps();
         });
     }

@@ -6,9 +6,9 @@ use Illuminate\Database\Eloquent\Model;
 
 class Line extends Model
 {
-    public function nodes(){
+    public function routes(){
 
-        return $this->belongsToMany('App\Line');
+        return $this->belongsToMany('App\Route');
     }
     
 }

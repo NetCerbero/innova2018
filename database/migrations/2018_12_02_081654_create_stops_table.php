@@ -15,7 +15,7 @@ class CreateStopsTable extends Migration
     {
         Schema::create('stops', function (Blueprint $table) {
             $table->integer('line_id')->unsigned();
-            $table->integer('node_id')->unsigned();
+            $table->integer('route_id')->unsigned();
             $table->timestamps();
         });
     }
